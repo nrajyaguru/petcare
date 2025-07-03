@@ -28,15 +28,16 @@ A simple and modern web application for managing a pet shop. Customers can brows
 git clone https://github.com/your-username/pet-shop.git
 cd pet-shop
 npm install
-
-https://github.com/user-attachments/assets/1e09920f-548d-46b1-84dc-c8b546a6e504
-
-
 npm run dev
 ```
 
 
 
+
+
+
+
+https://github.com/user-attachments/assets/3a66b78c-55b9-4090-849d-1a9a4e8cc98d
 
 
 
